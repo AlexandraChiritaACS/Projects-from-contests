@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\RPA Calculator\\TextAnalysis\\TextAnalysis\\TextAnalysis.csproj": {}
+  },
+  "projects": {
+    "E:\\RPA Calculator\\TextAnalysis\\TextAnalysis\\TextAnalysis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RPA Calculator\\TextAnalysis\\TextAnalysis\\TextAnalysis.csproj",
+        "projectName": "TextAnalysis",
+        "projectPath": "E:\\RPA Calculator\\TextAnalysis\\TextAnalysis\\TextAnalysis.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "E:\\RPA Calculator\\TextAnalysis\\TextAnalysis\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\dell\\Documents": {},
+          "E:\\RPA Calculator\\Packages": {},
+          "E:\\RPA_UIPath\\CheckTheEXEFiles\\CheckTheEXEFiles\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

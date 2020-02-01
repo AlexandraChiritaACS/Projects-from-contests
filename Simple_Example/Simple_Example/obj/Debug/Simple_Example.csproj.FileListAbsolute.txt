@@ -1,0 +1,6 @@
+E:\RPA Calculator\Simple_Example\Simple_Example\bin\Debug\Simple_Example.dll
+E:\RPA Calculator\Simple_Example\Simple_Example\bin\Debug\Simple_Example.pdb
+E:\RPA Calculator\Simple_Example\Simple_Example\obj\Debug\Simple_Example.csprojAssemblyReference.cache
+E:\RPA Calculator\Simple_Example\Simple_Example\obj\Debug\Simple_Example.csproj.CoreCompileInputs.cache
+E:\RPA Calculator\Simple_Example\Simple_Example\obj\Debug\Simple_Example.dll
+E:\RPA Calculator\Simple_Example\Simple_Example\obj\Debug\Simple_Example.pdb

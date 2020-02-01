@@ -1,0 +1,11 @@
+E:\RPA Calculator\TestingPython\TestingPython\bin\Debug\netcoreapp2.2\TestingPython.deps.json
+E:\RPA Calculator\TestingPython\TestingPython\bin\Debug\netcoreapp2.2\TestingPython.runtimeconfig.json
+E:\RPA Calculator\TestingPython\TestingPython\bin\Debug\netcoreapp2.2\TestingPython.runtimeconfig.dev.json
+E:\RPA Calculator\TestingPython\TestingPython\bin\Debug\netcoreapp2.2\TestingPython.dll
+E:\RPA Calculator\TestingPython\TestingPython\obj\Debug\netcoreapp2.2\TestingPython.csproj.CoreCompileInputs.cache
+E:\RPA Calculator\TestingPython\TestingPython\obj\Debug\netcoreapp2.2\TestingPython.AssemblyInfoInputs.cache
+E:\RPA Calculator\TestingPython\TestingPython\obj\Debug\netcoreapp2.2\TestingPython.AssemblyInfo.cs
+E:\RPA Calculator\TestingPython\TestingPython\bin\Debug\netcoreapp2.2\TestingPython.pdb
+E:\RPA Calculator\TestingPython\TestingPython\obj\Debug\netcoreapp2.2\TestingPython.csprojAssemblyReference.cache
+E:\RPA Calculator\TestingPython\TestingPython\obj\Debug\netcoreapp2.2\TestingPython.dll
+E:\RPA Calculator\TestingPython\TestingPython\obj\Debug\netcoreapp2.2\TestingPython.pdb
